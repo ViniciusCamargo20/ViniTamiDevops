@@ -6,4 +6,7 @@ teste historia 1 - task 1.3 - vinicius - Tamiris deve aprovar o merge para a bra
 
 --------------------------------
 
-teste historia 2 - task 1.1 - tamiris
+teste historia 2 - task 2.1 - tamiris
+
+
+teste historia 2 - task 2.2 - vinicius
